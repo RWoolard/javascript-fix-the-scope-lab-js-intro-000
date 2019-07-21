@@ -32,7 +32,7 @@ var funkyFunction = function() {
 // <<<<<<< HEAD
 var theFunk = funkyFunction();
 theFunk = theFunk()
-=======
+// =======
 
 var theFunk = funkyFunction1()
 theFunk = theFunk();
